@@ -1,0 +1,70 @@
+/* Don't change the existing CSS. */
+.head_font {
+  font-family: "Source Code Pro", monospace;
+  font-weight:50;
+  font-style:normal;
+  color: #9ce9bd;
+}
+.head_div{
+  /*background-image: url("./images/computer.jpg");*/
+  background-position: center;
+  margin-top: 0%;
+
+}
+
+.top{
+  padding:1px;
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+  background-image: url("./images/matrix.gif");
+  background-size: 100% 100%; /* Cover the entire container */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+  background-position: center; /* Center the image */
+  
+}
+
+.lead{
+  font-size: x-large;
+  color:white;
+}
+
+.me{
+  width: 50%;
+  height:250px;
+  border-radius: 50%;
+  max-width: 250px;
+}
+
+.resume{
+  padding:1px;
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+  background-image: url("./images/triangle-bg-green.png");
+  background-size: 100% 100%; /* Cover the entire container */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+  background-position: center; /* Center the image */
+  
+}
+.b-example-divider {
+  width: 100%;
+  height: 1rem;
+  background-color: rgba(8, 58, 18, 0.1);
+  border: solid  rgba(8, 58, 18, 0.1);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+.btn{
+  width: 200px;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+
+}
+.bottom{
+  background-color: #50a066;
+  padding-top: 20px;
+  padding-bottom:1px;
+  text-align: center;
+}
